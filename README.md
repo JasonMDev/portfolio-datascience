@@ -9,3 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac turpis non tor
 ## Machine Learning Projects
 ## Integration Projects
 ## Competitions
+## Data Cleaning Project
+## Data Storytelling Project
+## End to End Project
+## Books
