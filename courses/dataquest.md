@@ -4,9 +4,9 @@
 
 ### 1: Python Introduction 
 Learn the foundations of Python and programming.
-a. Python Programming: Beginner
+* Python Programming: Beginner
   * _Learn the basics of Python, the programming language of choice for data analysis._
-b. Python Programming: Intermediate
+* Python Programming: Intermediate
   * _Learn some more aspects of Python, including modules, enumeration, indexing, and scopes._
 
 ### 2: Data Analysis And Visualization 
