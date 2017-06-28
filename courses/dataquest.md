@@ -1,4 +1,6 @@
 # DATAQUEST
+## See Details of teh course here.
+[Dataquest Data Scientis Track](https://www.dataquest.io/path/data-scientist)
 
 ### 1: Python Introduction 
 Learn the foundations of Python and programming.
