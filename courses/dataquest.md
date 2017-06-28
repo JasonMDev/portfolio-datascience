@@ -9,7 +9,6 @@ Learn the foundations of Python and programming.
 
 ### 2: Data Analysis And Visualization 
 Learn how Python and Pandas make data analysis and visualization easy.
-
 * Data Analysis With Pandas: Intermediate
  * _Learn to master the Pandas DataFrame object for more efficient data analysis._
 * Exploratory Data Visualization
