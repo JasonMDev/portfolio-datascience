@@ -1,19 +1,19 @@
 # DATA SCIENCE PORTFOLIO
-_aDD pICTURE_
-
 This is a portfolio of my work for all things related to data science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac turpis non tortor vehicula dictum et auctor sem. Fusce neque libero, tempor eget semper ac, feugiat quis orci. Integer hendrerit sit amet lacus rutrum mattis. Fusce leo sem, efficitur non mauris non, ultrices viverra elit. Aliquam erat volutpat. Sed risus est, dignissim ut sapien vel, volutpat vehicula tellus. Donec vel arcu libero. Nam ut interdum leo, a auctor ligula. Phasellus tincidunt ex arcu, ac accumsan velit placerat in. Sed laoreet dignissim ultricies. Morbi egestas sollicitudin magna. Ut in lacus at magna fringilla sollicitudin sit amet id lacus.
+Most of the work I have done has been online in the DataQuest course. See details of the course [here](https://www.dataquest.io/path/data-scientist).
 
-## METHODOLOGY
-Describe CRISP-DM
-## Tutorials
-## Guided Projects
+However below is some of the other things I have done:
+
+## DataQuest Tutorials
+* [k-Means Clustering US Senators](https://github.com/JasonMDev/dq-k-means)
+
+## DataQuest Guided Projects
 * [DataQuest Guided Projects](https://github.com/JasonMDev/guidedprojects)
-## Machine Learning Projects
-## Integration Projects
-## Competitions
-## Data Cleaning Project
-## Data Storytelling Project
-## End to End Project
+
 ## Books
+* [Predictive Analytics with Python](https://github.com/JasonMDev/learning-python-predictive-analytics)
+
+## General Programing Skills
+* [Linux Command Line](https://github.com/JasonMDev/linux-command-line)
+* [Python Automate the Boring Stuff](https://github.com/JasonMDev/automate-boring-stuff)
